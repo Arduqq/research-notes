@@ -1,0 +1,177 @@
+{
+    "species": [{
+        "name": "Fluganta Rato",
+        "s": "T73Kt",
+        "props": {
+            "Body": {
+                "id": 1,
+                "Gene": [{
+                        "id": 1,
+                        "Code": "AABB",
+                        "Nomenclature": "Feral "
+                    },
+                    {
+                        "id": 2,
+                        "Code": "AABb",
+                        "Nomenclature": "Stygian "
+                    },
+                    {
+                        "id": 3,
+                        "Code": "AAbb",
+                        "Nomenclature": "Timid "
+                    },
+                    {
+                        "id": 4,
+                        "Code": "AaBB",
+                        "Nomenclature": "Nocturnal "
+                    },
+                    {
+                        "id": 5,
+                        "Code": "AaBb",
+                        "Nomenclature": "Common "
+                    },
+                    {
+                        "id": 6,
+                        "Code": "Aabb",
+                        "Nomenclature": "Royal "
+                    },
+                    {
+                        "id": 7,
+                        "Code": "aaBB",
+                        "Nomenclature": "Loud "
+                    },
+                    {
+                        "id": 8,
+                        "Code": "aaBb",
+                        "Nomenclature": "Meadow "
+                    },
+                    {
+                        "id": 9,
+                        "Code": "aabb",
+                        "Nomenclature": "Fragrant "
+                    }
+                ]
+            },
+            "Neck": {
+                "id": 2,
+                "Gene": [{
+                        "Code": "AABB",
+                        "Nomenclature": "Cro"
+                    },
+                    {
+                        "Code": "AABb",
+                        "Nomenclature": "No"
+                    },
+                    {
+                        "Code": "AAbb",
+                        "Nomenclature": "Lira"
+                    },
+                    {
+                        "Code": "AaBB",
+                        "Nomenclature": "Vera"
+                    },
+                    {
+                        "Code": "AaBb",
+                        "Nomenclature": "Mira"
+                    },
+                    {
+                        "Code": "Aabb",
+                        "Nomenclature": "Vra"
+                    },
+                    {
+                        "Code": "aaBB",
+                        "Nomenclature": "Duma"
+                    },
+                    {
+                        "Code": "aaBb",
+                        "Nomenclature": "O"
+                    },
+                    {
+                        "Code": "aabb",
+                        "Nomenclature": "Ola"
+                    }
+                ]
+            },
+            "Tail": {
+                "id": 3,
+                "Gene": [{
+                        "Code": "AABB",
+                        "Nomenclature": "ra"
+                    },
+                    {
+                        "Code": "AABb",
+                        "Nomenclature": "ba"
+                    },
+                    {
+                        "Code": "AAbb",
+                        "Nomenclature": "gra"
+                    },
+                    {
+                        "Code": "AaBB",
+                        "Nomenclature": "gara"
+                    },
+                    {
+                        "Code": "AaBb",
+                        "Nomenclature": "ca"
+                    },
+                    {
+                        "Code": "Aabb",
+                        "Nomenclature": "syn"
+                    },
+                    {
+                        "Code": "aaBB",
+                        "Nomenclature": "pa"
+                    },
+                    {
+                        "Code": "aaBb",
+                        "Nomenclature": "ola"
+                    },
+                    {
+                        "Code": "aabb",
+                        "Nomenclature": "sa"
+                    }
+                ]
+            },
+            "Tint": {
+                "id": 4,
+                "Gene": [{
+                        "Code": "AABB",
+                        "Nomenclature": "rishuhn"
+                    },
+                    {
+                        "Code": "AABb",
+                        "Nomenclature": "domhuhn"
+                    },
+                    {
+                        "Code": "AAbb",
+                        "Nomenclature": "wylhuhn"
+                    },
+                    {
+                        "Code": "AaBB",
+                        "Nomenclature": "dehuhn"
+                    },
+                    {
+                        "Code": "AaBb",
+                        "Nomenclature": "lehuhn"
+                    },
+                    {
+                        "Code": "Aabb",
+                        "Nomenclature": "huhn"
+                    },
+                    {
+                        "Code": "aaBB",
+                        "Nomenclature": "fahuhn"
+                    },
+                    {
+                        "Code": "aaBb",
+                        "Nomenclature": "crimhuhn"
+                    },
+                    {
+                        "Code": "aabb",
+                        "Nomenclature": "tihuhn"
+                    }
+                ]
+            }
+        }
+    }]
+}
